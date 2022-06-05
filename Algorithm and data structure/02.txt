@@ -1,0 +1,19 @@
+N = Berapa Banyak Angka
+I = Jumlah Pengulangan
+
+INPUT N = 20
+INPUT I = 1
+
+WHILE I <= 20
+	IF I MOD 3 = 0 AND I MOD 5 = 0
+		PRINT 'FizzBuzz'
+	ELSE IF I MOD 3 = 0
+		PRINNT 'Fizz'
+	ELSE IF I MOD 5 = 0
+		PRINT 'Buzz'
+	ELSE 
+		PRINT I
+
+	I++
+
+END

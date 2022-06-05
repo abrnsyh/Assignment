@@ -1,0 +1,8 @@
+Declare x
+
+INPUT x
+
+IF REVERSE x = x
+	TRUE
+ELSE
+	FALSE

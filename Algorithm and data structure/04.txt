@@ -1,0 +1,14 @@
+N = Nilai Awal
+res = Nilai Akhir
+
+IF N < 68
+	res = N
+ELSE
+	res = di bulatkan ke atas kelipatan 5
+
+IF res > 70
+	PRINT 'LULUS'
+else
+	PRINT 'COBA LAGI'
+
+OUTPUT res
